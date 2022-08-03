@@ -1,0 +1,54 @@
+.head3{
+    font-size:100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkviolet;
+    width:100%;
+    margin: 0px;
+}
+.next{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:midnightblue;
+    font-style: oblique;
+
+}
+body{
+    background-size: cover;
+}
+.speed{
+    float:left;
+}
+.volume{
+    float:right;
+}
+.speed_img{
+    width:200px;
+    border-radius: 100px;
+
+}
+.volume_img{
+    width:200px;
+    border-radius:100px;
+    
+}
+#speed_h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:mistyrose;
+    margin: 15px;
+    font-size: 17px;
+
+
+}
+#volume_h3{
+    font-family:Arial, Helvetica, sans-serif;
+    color:mistyrose;
+    margin: 15px;
+    font-size: 17px;
+}
+.Play1{
+    width:130px;
+    font-size:15px;
+}
+canvas{
+    border: 3px groove rgb(250, 153, 250);
+    border-radius: 50px;
+}
